@@ -14,7 +14,7 @@ import Image09 from './Image09.png';
 import xmark from './xmark.svg';
 import user_plus from './user_plus.svg';
 import user_pen from './user_pen.svg';
-import user_Lock from './user_Lock.svg';
+import user_lock from './user_lock.svg';
 import react from './react.svg';
 import profile_pic from './profile_pic.png';
 import plus from './plus.svg';
@@ -40,7 +40,7 @@ export const assets = {
   xmark,
   user_plus,
   user_pen,
-  user_Lock,
+  user_lock,
   react,
   profile_pic,
   plus,
