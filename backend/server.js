@@ -38,11 +38,11 @@ server.listen(PORT, () => {
 import express from "express";
 import cors from "cors";
 import "dotenv/config";
-import connectDB from "./config/mongodb.js";
-import connectCloudinary from "./config/cloudinary.js";
-import adminRouter from "./routes/adminRoute.js";
-import doctorRouter from "./routes/doctorRoute.js";
-import userRouter from "./routes/userRoute.js";
+import connectDB from "./src/config/mongodb.js";
+import connectCloudinary from "./src/config/cloudinary.js";
+import adminRouter from "./src/routes/adminRoute.js";
+import doctorRouter from "./src/routes/doctorRoute.js";
+import userRouter from "./src/routes/userRoute.js";
 
 // app config
 const app = express();
