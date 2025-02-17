@@ -1,5 +1,3 @@
-// umlaphi
-
 import express from "express";
 import {
   addDoctor,

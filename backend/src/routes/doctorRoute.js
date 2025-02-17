@@ -1,5 +1,3 @@
-// umlaphi
-
 import express from "express";
 import {
   appointmentCancel,
@@ -12,7 +10,6 @@ import {
   updateDoctorProfile,
 } from "../controllers/doctorController.js";
 import authDoctor from "../middlewares/authDoctor.js";
-//import authDoctor from "../middlewares/authDoctor.js";
 
 const doctorRouter = express.Router();
 
