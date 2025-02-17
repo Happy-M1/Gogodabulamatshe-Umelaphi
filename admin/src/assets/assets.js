@@ -1,7 +1,7 @@
 import Arrow_Down from "./Arrow_Down.png";
 import Arrow_Left from "./Arrow_Left.png";
 import image1 from './image1.png';
-import image01 from './image01.png';
+//import image01 from './image01.png';
 import Image01 from './Image01.png';
 import Image02 from './Image02.png';
 import Image03 from './Image03.png';
@@ -27,7 +27,7 @@ export const assets = {
   Arrow_Down,
   Arrow_Left,
   image1,
-  image01,
+  //image01,
   Image01,
   Image02,
   Image03,
